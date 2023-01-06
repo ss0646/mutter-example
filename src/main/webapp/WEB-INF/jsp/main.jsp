@@ -13,5 +13,6 @@
 <body>
 <h1>つぶやき掲示板メイン</h1>
 <p><%= loginUser.getName() %>さん、ログイン中</p>
+<a href="/mutter-example/Logout">ログアウト</a>
 </body>
 </html>

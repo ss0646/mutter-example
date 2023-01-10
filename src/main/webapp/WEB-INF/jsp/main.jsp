@@ -16,7 +16,7 @@
 </head>
 <body>
 <h1>つぶやき掲示板メイン</h1>
-<p><c:out value="${loginUser.name}" />さん、ログイン中
+<p><c:out value="${loginUser.name}" />さん、ログイン中<br>
 <a href="/mutter-example/Logout">ログアウト</a>
 </p>
 <p><a href="/mutter-example/Main">更新</a></p>
